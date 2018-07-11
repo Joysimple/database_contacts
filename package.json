@@ -1,0 +1,20 @@
+{
+  "name": "database_contacts",
+  "version": "1.0.0",
+  "description": "database practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joysimple/database_contacts.git"
+  },
+  "author": "Lana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joysimple/database_contacts/issues"
+  },
+  "homepage": "https://github.com/Joysimple/database_contacts#readme"
+}
